@@ -1,0 +1,117 @@
+[
+  {
+    "elev": "Ender",
+    "karakter": "Obi-Wan Kenobi",
+    "stemmer": 43
+  },
+  {
+    "elev": "Birger",
+    "karakter": "Darth Vader",
+    "stemmer": 27
+  },
+  {
+    "elev": "Cecilie",
+    "karakter": "Yoda",
+    "stemmer": 32
+  },
+  {
+    "elev": "Dag",
+    "karakter": "Luke Skywalker",
+    "stemmer": 12
+  },
+  {
+    "elev": "Eirik",
+    "karakter": "Leia Skywalker",
+    "stemmer": 13
+  },
+  {
+    "elev": "Frida",
+    "karakter": "Han Solo",
+    "stemmer": 43
+  },
+  {
+    "elev": "Gunnar",
+    "karakter": "Chewbacca",
+    "stemmer": 41
+  },
+  {
+    "elev": "Hanna",
+    "karakter": "R2-D2",
+    "stemmer": 41
+  },
+  {
+    "elev": "Ingrid",
+    "karakter": "C-3PO",
+    "stemmer": 2
+  },
+  {
+    "elev": "Jens",
+    "karakter": "Darth Maul",
+    "stemmer": 27
+  },
+  {
+    "elev": "Kristian",
+    "karakter": "Boba Fett",
+    "stemmer": 21
+  },
+  {
+    "elev": "Amila",
+    "karakter": "Jabba the Hutt",
+    "stemmer": 9
+  },
+  {
+    "elev": "Mona",
+    "karakter": "Emperor Palpatine",
+    "stemmer": 43
+  },
+  {
+    "elev": "Nils",
+    "karakter": "Darth Sidious",
+    "stemmer": 31
+  },
+  {
+    "elev": "Yosef",
+    "karakter": "Count Dooku",
+    "stemmer": 30
+  },
+  {
+    "elev": "Per",
+    "karakter": "General Grievous",
+    "stemmer": 12
+  },
+  {
+    "elev": "Rita",
+    "karakter": "Jango Fett",
+    "stemmer": 4
+  },
+  {
+    "elev": "Svein",
+    "karakter": "Luke Skywalker",
+    "stemmer": 12
+  },
+  {
+    "elev": "Tone",
+    "karakter": "Leia Skywalker",
+    "stemmer": 12
+  },
+  {
+    "elev": "Ulf",
+    "karakter": "Anakin Skywalker",
+    "stemmer": 12
+  },
+  {
+    "elev": "Vilde",
+    "karakter": "Padmé Amidala",
+    "stemmer": 12
+  },
+  {
+    "elev": "Wenche",
+    "karakter": "Ahsoka Tano",
+    "stemmer": 12
+  },
+  {
+    "elev": "Øyvind",
+    "karakter": "Luke Skywalker",
+    "stemmer": 12
+  }
+]
